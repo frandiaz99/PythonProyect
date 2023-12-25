@@ -1,0 +1,80 @@
+{
+    "pepegamer": {
+        "NOMBRE": "juan",
+        "EDAD": "13",
+        "GENERO": "hombre",
+        "AVATAR": "avatar/avatar_6.png"
+    },
+    "lukistar": {
+        "NOMBRE": "hola",
+        "EDAD": "16",
+        "GENERO": "hombre",
+        "AVATAR": "avatar/avatar_default.png"
+    },
+    "lu": {
+        "NOMBRE": "lula",
+        "EDAD": "34",
+        "AVATAR": "avatar/avatar_5.png",
+        "GENERO": "no binario"
+    },
+    "epicmari": {
+        "NOMBRE": "mariana",
+        "EDAD": "24",
+        "AVATAR": "avatar/avatar_7.png",
+        "GENERO": "mujer"
+    },
+    "pip": {
+        "NOMBRE": "pip",
+        "EDAD": "20",
+        "GENERO": "pip",
+        "AVATAR": "avatar/avatar_3.png"
+    },
+    "leyenda123": {
+        "NOMBRE": "leandro",
+        "EDAD": "46",
+        "GENERO": "hombre",
+        "AVATAR": "avatar/avatar_8.png"
+    },
+    "Xx_EPiK_xX": {
+        "NOMBRE": "gonza",
+        "EDAD": "11",
+        "AVATAR": "avatar/avatar_6.png",
+        "GENERO": "gonza"
+    },
+    "jojo": {
+        "NOMBRE": "jonatan",
+        "EDAD": "14",
+        "AVATAR": "avatar/avatar_2.png",
+        "GENERO": "hombre"
+    },
+    "lucho": {
+        "NOMBRE": "lucho",
+        "EDAD": "1234",
+        "AVATAR": "avatar/avatar_default.png",
+        "GENERO": "lucho"
+    },
+    "user1234": {
+        "NOMBRE": "juancho",
+        "EDAD": "23",
+        "AVATAR": "avatar/avatar_2.png",
+        "GENERO": "hombre"
+    },
+    "frandiaz99": {
+        "NOMBRE": "fran",
+        "EDAD": "23",
+        "AVATAR": "avatar/avatar_6.png",
+        "GENERO": "hombre"
+    },
+    "asdsad": {
+        "NOMBRE": "asdada",
+        "EDAD": "2",
+        "AVATAR": "avatar/avatar_default.png",
+        "GENERO": "hombre"
+    },
+    "fdiax99": {
+        "NOMBRE": "francisco",
+        "EDAD": "23",
+        "AVATAR": "avatar/avatar_default.png",
+        "GENERO": "hombre"
+    }
+}

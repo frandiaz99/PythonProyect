@@ -1,0 +1,170 @@
+[
+    {
+        "image": "meme_1.png",
+        "name": "Buff Doge y Cheems",
+        "text_boxes": [
+            {
+                "top_left_x": 20,
+                "top_left_y": 270,
+                "bottom_right_x": 90,
+                "bottom_right_y": 320
+            },
+            {
+                "top_left_x": 280,
+                "top_left_y": 270,
+                "bottom_right_x": 70,
+                "bottom_right_y": 320
+            }
+        ]
+    },
+    {
+        "image": "meme_2.png",
+        "name": "Spiderman x2",
+        "text_boxes": [
+            {
+                "top_left_x": 60,
+                "top_left_y": 150,
+                "bottom_right_x": 80,
+                "bottom_right_y": 200
+            },
+            {
+                "top_left_x": 300,
+                "top_left_y": 110,
+                "bottom_right_x": 60,
+                "bottom_right_y": 160
+            }
+        ]
+    },
+    {
+        "image": "meme_3.png",
+        "name": "Mr Increible",
+        "text_boxes": [
+            {
+                "top_left_x": 20,
+                "top_left_y": 20,
+                "bottom_right_x": 90,
+                "bottom_right_y": 70
+            },
+            {
+                "top_left_x": 280,
+                "top_left_y": 20,
+                "bottom_right_x": 70,
+                "bottom_right_y": 70
+            }
+        ]
+    },
+    {
+        "image": "meme_4.png",
+        "name": "Mathematics",
+        "text_boxes": [
+            {
+                "top_left_x": 20,
+                "top_left_y": 120,
+                "bottom_right_x": 160,
+                "bottom_right_y": 180
+            }
+        ]
+    },
+    {
+        "image": "meme_5.png",
+        "name": "Cerebro Galaxia",
+        "text_boxes": [
+            {
+                "top_left_x": 15,
+                "top_left_y": 20,
+                "bottom_right_x": 100,
+                "bottom_right_y": 70
+            },
+            {
+                "top_left_x": 15,
+                "top_left_y": 160,
+                "bottom_right_x": 100,
+                "bottom_right_y": 210
+            },
+            {
+                "top_left_x": 15,
+                "top_left_y": 300,
+                "bottom_right_x": 100,
+                "bottom_right_y": 350
+            }
+        ]
+    },
+    {
+        "image": "meme_6.png",
+        "name": "Harold Dolor",
+        "text_boxes": [
+            {
+                "top_left_x": 50,
+                "top_left_y": 130,
+                "bottom_right_x": 125,
+                "bottom_right_y": 180
+            }
+        ]
+    },
+    {
+        "image": "meme_7.png",
+        "name": "Drake Graham No Yes",
+        "text_boxes": [
+            {
+                "top_left_x": 200,
+                "top_left_y": 20,
+                "bottom_right_x": 120,
+                "bottom_right_y": 120
+            },
+            {
+                "top_left_x": 200,
+                "top_left_y": 220,
+                "bottom_right_x": 120,
+                "bottom_right_y": 320
+            }
+        ]
+    },
+    {
+        "image": "meme_8.png",
+        "name": "Mono Marioneta",
+        "text_boxes": [
+            {
+                "top_left_x": 20,
+                "top_left_y": 20,
+                "bottom_right_x": 80,
+                "bottom_right_y": 60
+            },
+            {
+                "top_left_x": 210,
+                "top_left_y": 20,
+                "bottom_right_x": 80,
+                "bottom_right_y": 60
+            }
+        ]
+    },
+    {
+        "image": "meme_9.png",
+        "name": "Fernanfloo Facha",
+        "text_boxes": [
+            {
+                "top_left_x": 20,
+                "top_left_y": 10,
+                "bottom_right_x": 80,
+                "bottom_right_y": 50
+            },
+            {
+                "top_left_x": 220,
+                "top_left_y": 10,
+                "bottom_right_x": 80,
+                "bottom_right_y": 50
+            }
+        ]
+    },
+    {
+        "image": "meme_10.png",
+        "name": "Maravillosa Jugada",
+        "text_boxes": [
+            {
+                "top_left_x": 40,
+                "top_left_y": 20,
+                "bottom_right_x": 200,
+                "bottom_right_y": 60
+            }
+        ]
+    }
+]
